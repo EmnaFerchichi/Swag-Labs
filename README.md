@@ -59,17 +59,18 @@ git clone https://github.com/your-username/swag-labs-demo.git
 cd swag-labs-demo
 3. **Build the project**:
    mvn clean install
-**🚧 Best Practices**
+
+### **🚧 Best Practices**
 ✅ Use descriptive Gherkin syntax for readability
 ✅ Keep tests independent and isolated
 ✅ Ensure consistent browser compatibility
 
 
-**🌟 Future Improvements**
+### **🌟 Future Improvements**
 - Add parallel execution support
 - Implement data-driven testing
 - Integrate with CI/CD pipelines
 
 
-**📝 Author**
+### **📝 Author**
 Emna Ferchichi
