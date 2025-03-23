@@ -54,7 +54,7 @@ Swag Labs is a demo e-commerce website designed to test automation skills. This 
 
 ### 💻 **Installation**
 1. **Clone the repository**:
-git clone https://github.com/your-username/swag-labs-demo.git
+git clone https://github.com/your-username/swag-labs.git
 2. **Clone the repository**:
 cd swag-labs-demo
 3. **Build the project**:
